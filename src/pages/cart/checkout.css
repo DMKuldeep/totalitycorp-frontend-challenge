@@ -1,0 +1,24 @@
+.checkout{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.checkout form{
+     
+        width: 23%;
+        margin-top: 30px;
+    
+}
+
+
+.chead{
+    text-align: center;
+}
+
+.form-group{
+    display: flex;
+    justify-content: space-between;
+
+}

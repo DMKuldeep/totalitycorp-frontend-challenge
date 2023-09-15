@@ -1,0 +1,11 @@
+.cart-container {
+    display: flex;
+    flex-direction: row; 
+  }
+  
+  @media (max-width: 768px) {
+    .cart-container {
+      flex-direction: column;
+    }
+  }
+  
